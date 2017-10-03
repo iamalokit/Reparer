@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_margin="15dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="What type of AC units do you need help with?"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:padding="10dp"
+            android:id="@+id/textAC"/>
+
+        <CheckBox
+            android:layout_margin="15dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/windAC"
+            android:text="Window AC(s)"
+            android:textSize="15dp"
+            android:layout_below="@+id/textAC"/>
+        <CheckBox
+            android:layout_margin="15dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/splitAC"
+            android:text="Split AC(s)"
+            android:textSize="15dp"
+            android:layout_below="@+id/windAC"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/black"
+            android:textColor="@android:color/white"
+            android:id="@+id/next"
+            android:text="Next"
+            android:textStyle="bold"
+            android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+
+
+</LinearLayout>

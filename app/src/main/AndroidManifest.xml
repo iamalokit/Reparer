@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ajalokit27.reparer">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/fb_login_protocol_scheme" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".services" />
+        <activity android:name=".achome" />
+        <activity android:name=".acask" />
+        <activity android:name=".splitService" />
+        <activity android:name=".wetServicing" />
+        <activity android:name=".spacinstall" />
+        <activity android:name=".spacuninstall" />
+        <activity android:name=".location" />
+        <activity android:name=".types_of_property" />
+        <activity android:name=".type_of_project" />
+        <activity android:name=".services_reqired" />
+        <activity android:name=".approx_size" />
+        <activity android:name=".what_describes_you" />
+        <activity android:name=".anything_else" />
+        <activity android:name=".login" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".ScheduleDateTimeAddress"></activity>
+    </application>
+
+</manifest>

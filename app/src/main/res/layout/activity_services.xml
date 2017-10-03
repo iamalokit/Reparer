@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:padding="5dp"
+        android:gravity="center_vertical"
+        android:background="@android:color/black"
+        android:textColor="@android:color/white"
+        android:text="Choose a Service."
+        android:textAlignment="center"/>
+
+
+    <ListView
+        android:id="@+id/list_services"
+        android:layout_width="match_parent"
+        android:layout_height="579dp"
+        android:layout_below="@+id/textView2">
+
+    </ListView>
+        <TextView
+            android:id="@+id/textViewLogOut"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:padding="5dp"
+            android:layout_alignParentBottom="true"
+            android:gravity="center_vertical"
+            android:background="@android:color/black"
+            android:textColor="@android:color/white"
+            android:text="LogOut"
+            android:textAlignment="center"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

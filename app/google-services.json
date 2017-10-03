@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "773514588460",
+    "firebase_url": "https://reparer-2cab5.firebaseio.com",
+    "project_id": "reparer-2cab5",
+    "storage_bucket": "reparer-2cab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773514588460:android:19a0835273ec4d83",
+        "android_client_info": {
+          "package_name": "com.example.ajalokit27.reparer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773514588460-cmqdc15pktmqcs9lvgcqo7qr2kp2t1p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ajalokit27.reparer",
+            "certificate_hash": "df17d52db1dfd638cd20fa6701770e17b1f91add"
+          }
+        },
+        {
+          "client_id": "773514588460-39a10e9lp2b6619keo0qq71f8danmj6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDixUUizP5frQ1hc_JTstkeWY3YVgyem1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773514588460-39a10e9lp2b6619keo0qq71f8danmj6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

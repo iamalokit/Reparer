@@ -1,0 +1,49 @@
+<android.widget.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ajalokit27.reparer.ScheduleDateTimeAddress">
+
+
+
+        <TextView
+            android:layout_margin="15dp"
+            android:textAlignment="center"
+            android:id="@+id/textViewSchedule"
+            android:textSize="30dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:text="Schedule Date and Time"
+            android:textStyle="bold" />
+        <EditText
+            android:id="@+id/editTextDate"
+            android:layout_margin="15dp"
+            android:hint="Select Date Here"
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textViewSchedule"/>
+
+        <Spinner
+            android:id="@+id/spinnerTime"
+            android:layout_margin="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_below="@id/editTextDate"
+            >
+        </Spinner>
+
+
+        <Button
+        android:id="@+id/buttonSaveDateTime"
+        android:background="@android:color/black"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Date and Time"
+        android:textColor="@android:color/white"/>
+
+</android.widget.RelativeLayout>

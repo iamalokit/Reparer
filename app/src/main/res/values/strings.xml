@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Reparer</string>
+    <string name="facebook_app_id">[APP_ID]</string>
+    <string name="fb_login_protocol_scheme">fb[APP_ID]</string>
+    <string-array name="Services_List">
+        <item>Robert</item>
+        <item>Rob</item>
+        <item>Bert</item>
+        <item>Obert</item>
+        <item>Rot</item>
+        <item>Rert</item>
+        <item>Robot</item>
+    </string-array>
+
+    <array name="images">
+        <item>@drawable/ac</item>
+        <item>@drawable/arch</item>
+        <item>@drawable/bathclean</item>
+        <item>@drawable/carpent</item>
+        <item>@drawable/chimney</item>
+        <item>@drawable/ac</item>
+        <item>@drawable/bathclean</item>
+
+
+
+    </array>
+    <string-array name="timeRange">
+        <item>Time</item>
+        <item>9 - 11 AM</item>
+        <item>11 - 1 PM</item>
+        <item>1 - 3 PM</item>
+        <item>3 - 5 PM</item>
+        <item>5 - 7 PM</item>
+    </string-array>
+    <string name="title_activity_what_describes_you">what_describes_you</string>
+</resources>
+  
