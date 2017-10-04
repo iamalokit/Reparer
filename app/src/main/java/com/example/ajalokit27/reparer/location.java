@@ -3,6 +3,7 @@ package com.example.ajalokit27.reparer;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.text.TextUtils;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -41,18 +42,20 @@ public class location extends AppCompatActivity implements View.OnClickListener 
             finish();
             startActivity(new Intent(location.this, login.class));
         }
-        databaseReference = FirebaseDatabase.getInstance().getReference();
+        databaseReference = FirebaseDatabase.getInstance().getReference("location");
         buttonSaveAddress.setOnClickListener(location.this);
     }
 
-    private void saveUserAddress(){
+    private void saveUserAddress() {
         String houseno = editTextHouseNo.getText().toString().trim();
         String landmark = editTextLandmark.getText().toString().trim();
         String locality = editTextLocality.getText().toString().trim();
-        UserAddress userAddress= new UserAddress(houseno, landmark, locality);
-        FirebaseUser user = firebaseAuth.getCurrentUser();
-        databaseReference.child(user.getUid()).setValue(userAddress);
-        Toast.makeText(this, "Address Saved", Toast.LENGTH_SHORT).show();
+        if (!TextUtils.isEmpty(houseno)) {
+            UserAddress userAddress = new UserAddress(houseno, landmark, locality);
+            FirebaseUser user = firebaseAuth.getCurrentUser();
+            databaseReference.child(user.getUid()).setValue(userAddress);
+            Toast.makeText(this, "Address Saved", Toast.LENGTH_SHORT).show();
+        }
     }
     @Override
     public void onClick(View view) {

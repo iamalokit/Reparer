@@ -27,7 +27,7 @@ public class ScheduleDateTimeAddress extends AppCompatActivity implements View.O
     private FirebaseAuth firebaseAuth;
     int year_x, month_x, day_x;
     static final int DILOG_ID = 0;
-    private DatabaseReference databaseReferenceDateTime = FirebaseDatabase.getInstance().getReference();
+    private DatabaseReference databaseReferenceDateTime = FirebaseDatabase.getInstance().getReference("Date and Time");
 
 
     @Override

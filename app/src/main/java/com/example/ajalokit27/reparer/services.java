@@ -56,7 +56,7 @@ public class services extends AppCompatActivity implements View.OnClickListener 
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
                 switch (position){
                     case  0:
-                        Intent i0 = new Intent(services.this, acask.class);
+                        Intent i0 = new Intent(services.this, achome.class);
                         startActivity(i0);
                         break;
                 }

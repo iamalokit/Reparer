@@ -9,7 +9,6 @@
         <TextView
             android:layout_margin="15dp"
             android:textColor="@android:color/black"
-
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Type of service needed for the AC"
@@ -25,7 +24,7 @@
             android:id="@+id/wet"
             android:text="Wet servicing (End to End cleaning of AC which are not faulty)"
             android:textSize="15dp"
-            android:layout_below="@+id/typeServ"/>
+            android:layout_below="@+id/typeServ" />
         <CheckBox
 
             android:layout_margin="15dp"
@@ -34,7 +33,7 @@
             android:id="@+id/repair"
             android:text="Repairs (Diagnosis and rectification of AC which are not cooling)"
             android:textSize="15dp"
-            android:layout_below="@+id/wet"/>
+            android:layout_below="@+id/wet" />
         <CheckBox
             android:layout_margin="15dp"
             android:layout_width="wrap_content"
@@ -45,7 +44,6 @@
             android:layout_below="@+id/repair"/>
         <CheckBox
             android:layout_margin="15dp"
-
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/uninst"

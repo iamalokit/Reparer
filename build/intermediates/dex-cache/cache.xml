@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\cf8e81d4ed9cb3942391299f77c4e2ca58946003\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fab0923c76cdfcbcca64fc2724089c39606dcd9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\72c6694ac9b4e4fea683674373059650a5f6f986\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ca803bbdbcabdc09045de7d518fe56b26b5d95a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aj.alokit27\.android\build-cache\cf8e81d4ed9cb3942391299f77c4e2ca58946003\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\pre-dexed\debug\classes_fab0923c76cdfcbcca64fc2724089c39606dcd9f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\fe1010216a242135919f0cddec30d1d71cefe25d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93181400577cade831b99cb5532e2f29ff1a80a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aj.alokit27\.android\build-cache\93e3d1a6f070188ae8b5c6a1a28d9492e5de33fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\pre-dexed\debug\classes_7864c95a37e9568794d34d54f0b7de642dd22789.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\0e99c1e29f5287946e21af3ad5f9b6db4168a2f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f898fcbf555b550db34c50acd8903851395e249e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aj.alokit27\.android\build-cache\7daeff8967688c4c53cc8aa8ad43db20675c270c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="474cccf169297d49fff89fd35b7634a7a9d1031c">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\pre-dexed\debug\classes_9e115603944d37d7da5fc43d2850cdc9ca1fe031.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\b042fc5baee29e1fc086a7e2db47018e5202fb9a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9a0c96cb2e74d3a6e692d920c9e03326e77f6429">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7958fd8705ac5bf9ae2ba4ec1d3899317969665d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\93e3d1a6f070188ae8b5c6a1a28d9492e5de33fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7864c95a37e9568794d34d54f0b7de642dd22789\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\376904e8cfe42318f4ae40103a37834a94b5b777\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e16eb5e77d8e6bb55ae23b70591a992aeb74f8cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aj.alokit27\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_a8325b29885c70692e3e979e32a84472f02de8b3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="80f031a9354b1246d95dfa2c6bf6f922a11613d8">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_eb767bbb83fcddecd7320d2f1c0b9ec500a3b9ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aj.alokit27\.android\build-cache\e718f31e26bcff77a49d2ed8ccb906d859f97e4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\pre-dexed\debug\classes_4a25467e7a4b305c864ce4bfb99c5b6f440071f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aj.alokit27\.android\build-cache\e8d46a282a7f4218d38f628913f98287aae1ba6b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\pre-dexed\debug\classes_cd83b82fdf4a500977b2e463ecc79fc32777c33e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aj.alokit27\.android\build-cache\80fa5ae08e4a2819b3e8e24d4dd8cb27d89d874d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\pre-dexed\debug\classes_07fb9a98bc86f2a4f0ac8cf4cc1bce4e34170c23.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1717aa150ed5c68f6e8f44320b20f93ecd789964\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\db0872efb9f49a7ccd4658d94a67a3c4b2a06257\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="252896ce41f2a84a2849e29235e66098be7d12ee">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8624aa74ffadd97ca84e73f5fc3e07acde125809\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\e8d46a282a7f4218d38f628913f98287aae1ba6b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd83b82fdf4a500977b2e463ecc79fc32777c33e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\f1aa60e627afd0eccc6836d3b0740358ed077984\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3c5cb662438d563ec446778f0e1ce7077267c45\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aj.alokit27\.android\build-cache\747c8190ac1daf4e39aac5c894593a7a7cc232c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\pre-dexed\debug\classes_7bf5532f1c22038f95569b8d07fbaa021d0af21c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aj.alokit27\.android\build-cache\fb4736a97f092e3c1175a75b97cdacf143330fcd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\pre-dexed\debug\classes_0fd9762ff0505a2e28d4a518beb1d9ebfe82b3dc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\747c8190ac1daf4e39aac5c894593a7a7cc232c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bf5532f1c22038f95569b8d07fbaa021d0af21c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\fb4736a97f092e3c1175a75b97cdacf143330fcd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0fd9762ff0505a2e28d4a518beb1d9ebfe82b3dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\e718f31e26bcff77a49d2ed8ccb906d859f97e4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a25467e7a4b305c864ce4bfb99c5b6f440071f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\fd6b5d8f4ec9a2bc8e13a0abacb2c78559e8e8f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f895ce79468880541a20e58fff7dc3b2fbb1eb98\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aj.alokit27\.android\build-cache\7dedd321eb81da6473782960de1d20b9d7201557\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\pre-dexed\debug\classes_88bbb678a30be4e0dfc5354ecbc4c5511f220fe9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\7dedd321eb81da6473782960de1d20b9d7201557\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88bbb678a30be4e0dfc5354ecbc4c5511f220fe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\d18466d0a3aafc70accfc0a4e0ac20ab9b122504\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84d6fdf2acd035afcb53528112360697a7c4be88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\529034ea0f950df3805f00462cfcd56168b9df95\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_260e9189d90db460aa4ededf2fdd370444ef5c18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\70e00c6f415a4997aee1d34d2ab5a557c67f9de9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c69c75b6e80f70e24909c5b6bce64a6a19262c50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\ec9c52f46b1e19b403d955d83bd15af7b9044f62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5acd5b44c40f990a0bdfc662d38ecb3acf7252cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aj.alokit27\.android\build-cache\d18466d0a3aafc70accfc0a4e0ac20ab9b122504\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\pre-dexed\debug\classes_84d6fdf2acd035afcb53528112360697a7c4be88.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\15931c3a6c48bc999206227a1fbbdb4f51e97f49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4c6998f479ca93ff191b1461edc5725426a8995\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\766f67b2e94d2a4db800f68e3ee9200ecf5602a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6de4f5522af5c238ff674bb7f1953517a46146f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aj.alokit27\.android\build-cache\376904e8cfe42318f4ae40103a37834a94b5b777\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\pre-dexed\debug\classes_e16eb5e77d8e6bb55ae23b70591a992aeb74f8cc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\3bae254c166db57744a9d01185b973db5d613886\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc9ea2bc291bbebc83f5b160d115c699bddc4e16">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b53667a87fd3751d292902d8e4c9a9fbeaebe88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.android\build-cache\e48c1dd698cad73dc94c58f46cc4fe5caac30f6f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b14c33179c0a1ed947e4b01c1e0bb03f2ce4182f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aj.alokit27\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.3.0_a105597a09333a9fd27c29741b728f714dee1158\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aj.alokit27\.android\build-cache\ee488f9103cac4b19bd4fde96f24615e65d529d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\pre-dexed\debug\classes_4cddfe09dd5d03acb1537f96343fd5a3a2794c13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\aj.alokit27\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\aj.alokit27\AndroidStudioProjects\Reparer\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_2710415788f88d83e2aab91ffe03c612218279f9.jar" />
+    </item>
+
+</items>

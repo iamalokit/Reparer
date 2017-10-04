@@ -16,7 +16,7 @@ Button bt;
         bt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i0 = new Intent(acask.this, achome.class);
+                Intent i0 = new Intent(acask.this, splitService.class);
                 startActivity(i0);
             }
         });

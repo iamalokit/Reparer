@@ -18,7 +18,7 @@ public class achome extends AppCompatActivity {
         bt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i0 = new Intent(achome.this, splitService.class);
+                Intent i0 = new Intent(achome.this, acask.class);
                 startActivity(i0);
             }
         });

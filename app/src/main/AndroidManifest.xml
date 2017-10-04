@@ -55,7 +55,8 @@
         <activity android:name=".anything_else" />
         <activity android:name=".login" />
         <activity android:name=".SignUp" />
-        <activity android:name=".ScheduleDateTimeAddress"></activity>
+        <activity android:name=".ScheduleDateTimeAddress" />
+        <activity android:name=".invoiceDetails"></activity>
     </application>
 
 </manifest>
