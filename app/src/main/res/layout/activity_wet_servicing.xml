@@ -132,50 +132,6 @@
                 android:textSize="20dp"
                 android:textStyle="bold" />
 
-            <RadioButton
-                android:layout_margin="15dp"
-
-                android:id="@+id/r6"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/t5"
-                android:text="6"
-                android:textSize="15dp" />
-
-            <TextView
-                android:layout_marginLeft="15dp"
-                android:textColor="@android:color/black"
-                android:id="@+id/t6"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/r6"
-                android:padding="10dp"
-                android:text="Rs. 2,799"
-                android:textSize="20dp"
-                android:textStyle="bold" />
-
-            <RadioButton
-                android:layout_margin="15dp"
-
-                android:id="@+id/r7"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/t6"
-                android:text="7"
-                android:textSize="15dp" />
-
-            <TextView
-                android:layout_marginLeft="15dp"
-                android:textColor="@android:color/black"
-                android:id="@+id/t7"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@+id/r7"
-                android:padding="10dp"
-                android:text="Rs. 3199"
-                android:textSize="20dp"
-                android:textStyle="bold" />
-
             <Button
                 android:layout_marginTop="15dp"
                 android:id="@+id/next"
@@ -186,7 +142,7 @@
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
                 android:layout_alignParentRight="true"
-                android:layout_below="@+id/t7"
+                android:layout_below="@+id/t5"
                 android:text="Next" />
 
         </RelativeLayout>

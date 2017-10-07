@@ -24,7 +24,8 @@
             android:id="@+id/wet"
             android:text="Wet servicing (End to End cleaning of AC which are not faulty)"
             android:textSize="15dp"
-            android:layout_below="@+id/typeServ" />
+            android:layout_below="@+id/typeServ"
+            />
         <CheckBox
 
             android:layout_margin="15dp"

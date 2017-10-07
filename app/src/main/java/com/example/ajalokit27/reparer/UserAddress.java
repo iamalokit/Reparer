@@ -13,4 +13,5 @@ public class UserAddress {
         this.landmark = landmark;
         this.locality = locality;
     }
+
 }
