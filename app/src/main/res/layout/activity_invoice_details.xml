@@ -1,9 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.ajalokit27.reparer.invoiceDetails">
+    tools:context="com.example.ajalokit27.reparer.invoiceDetails"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_margin="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Service Details"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:padding="10dp"
+            android:id="@+id/serviceDetails"/>
 
-</android.support.constraint.ConstraintLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/black"
+            android:textColor="@android:color/white"
+            android:id="@+id/saveAndMail"
+            android:text="Save and Send Email"
+            android:textStyle="bold"
+            android:layout_alignParentBottom="true"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewDetails"
+            android:layout_margin="15dp"
+            android:textColor="@android:color/black"
+            android:textSize="20dp"
+            android:layout_below="@id/serviceDetails"/>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

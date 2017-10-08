@@ -60,8 +60,8 @@ public class location extends AppCompatActivity implements View.OnClickListener 
     @Override
     public void onClick(View view) {
         if(view == buttonSaveAddress){
-            saveUserAddress();
             finish();
+            saveUserAddress();
             startActivity(new Intent(location.this, ScheduleDateTimeAddress.class));
         }
     }

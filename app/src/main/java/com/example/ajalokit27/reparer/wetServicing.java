@@ -20,7 +20,7 @@ public class wetServicing extends AppCompatActivity implements View.OnClickListe
     TextView t1, t2, t3, t4, t5;
 
     private FirebaseAuth firebaseAuth;
-    private DatabaseReference databaseReference = FirebaseDatabase.getInstance().getReference();
+    private DatabaseReference databaseReference = FirebaseDatabase.getInstance().getReference("NumberAndPrice");
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

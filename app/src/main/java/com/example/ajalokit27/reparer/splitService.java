@@ -46,21 +46,22 @@ public class splitService extends AppCompatActivity implements View.OnClickListe
             startActivity(new Intent(splitService.this, wetServicing.class));
         }
         if (checkBoxRepair.isChecked()) {
-            typeOfService = checkBoxRepair.getText().toString().trim();
             finish();
+            typeOfService = checkBoxRepair.getText().toString().trim();
             startActivity(new Intent(splitService.this, location.class));
         }
         if (checkBoxNewAC.isChecked()) {
-            typeOfService = checkBoxNewAC.getText().toString().trim();
             finish();
+            typeOfService = checkBoxNewAC.getText().toString().trim();
             startActivity(new Intent(splitService.this, spacinstall.class));
         }
         if (checkBoxUninstall.isChecked()) {
-            typeOfService = checkBoxUninstall.getText().toString().trim();
             finish();
+            typeOfService = checkBoxUninstall.getText().toString().trim();
             startActivity(new Intent(splitService.this, spacuninstall.class));
         }
         if (!TextUtils.isEmpty(typeOfService)) {
+            finish();
             DataTypeService dataTypeService = new DataTypeService(typeOfService);
             FirebaseUser user = firebaseAuth.getCurrentUser();
             databaseReference.child(user.getUid()).setValue(dataTypeService);
@@ -70,7 +71,6 @@ public class splitService extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View view) {
             if(view == bt){
-                finish();
                 saveTypeOfService();
             }
     }

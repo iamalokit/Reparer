@@ -9,6 +9,10 @@ public class DataTypeService {
 
     public DataTypeService(String typeOfService) {
         this.typeOfService = typeOfService;
+
     }
 
+    public String getTypeOfService() {
+        return typeOfService;
+    }
 }

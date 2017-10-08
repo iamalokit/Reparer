@@ -90,12 +90,14 @@ public class ScheduleDateTimeAddress extends AppCompatActivity implements View.O
         FirebaseUser user = firebaseAuth.getCurrentUser();
         databaseReferenceDateTime.child(user.getUid()).setValue(dateTime);
         Toast.makeText(this, "Date and Time Saved", Toast.LENGTH_SHORT).show();
+        startActivity(new Intent(ScheduleDateTimeAddress.this,invoiceDetails.class));
+
     }
     @Override
     public void onClick(View view) {
         if (view == buttonSaveDateTime) {
-            saveDateTime();
             finish();
+            saveDateTime();
 
         }
     }
